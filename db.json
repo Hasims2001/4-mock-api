@@ -1,5 +1,17 @@
 {
     "data":[
         
-    ]
+    ],
+    "products": [
+       {
+         "id" : 1,
+         "img" : "https://rukminim2.flixcart.com/image/832/832/xif0q/shirt/a/5/a/xxl-pink-1-otus-original-imagjg3g5xgcckyc.jpeg?q=70",
+        "name" : "Men Slim Fit Striped Spread Collar Casual Shirt",
+        "description" :"Shipping charges are calculated based on the number of units, distance and delivery date.",
+        "price":439,
+        "gender" : "male",
+        "category": "Shirts"
+        }
+       
+     ]
 }
